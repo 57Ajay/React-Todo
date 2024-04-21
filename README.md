@@ -1,8 +1,22 @@
-# React + Vite
+# Simple React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Todo App built with React, allowing users to add a title and description to each todo item.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new todo items with a title and description
+- View a list of all todo items
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces
+- JSX: A syntax extension for JavaScript used with React
+- CSS: Cascading Style Sheets for styling the application
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/57ajay/React-Todo
+
